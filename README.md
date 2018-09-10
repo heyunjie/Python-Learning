@@ -1,2 +1,2 @@
 # Python-Learning
-Thesea are my codes about Python Learning. They capture most of the fundamental knowledge that you may need to learn in oder to start with Python learning:) I will keep UPDATING!
+These are my codes about Python Learning. They capture most of the fundamental knowledge that you may need to learn in oder to start with Python learning:) I will keep UPDATING! Welcome all people interested in Python to find something useful from them!
